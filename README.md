@@ -14,3 +14,5 @@ This Sales Analysis Dashboard is a data visualization tool that provides key ins
 - Revenue Optimization – Identify high & low-performing periods
 - Efficiency Boost – Automates manual reporting, reducing errors
 - Forecasting Support – Helps predict future sales trends
+
+Skills used - Power Query Editor, Data Modelling, Pivot Tables, Charts, Slicers, Maesures
