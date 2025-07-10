@@ -10,7 +10,7 @@ This Sales Analysis Dashboard is a data visualization tool that provides key ins
 - Total Quantity Sold (3,055)
 
 ### Business Impact:
-- Performance Analysis – Compare sales across years (2019–2025+)
+- Performance Analysis – Compare sales across years (2019 - 2025)
 - Revenue Optimization – Identify high & low-performing periods
 - Efficiency Boost – Automates manual reporting, reducing errors
 - Forecasting Support – Helps predict future sales trends
