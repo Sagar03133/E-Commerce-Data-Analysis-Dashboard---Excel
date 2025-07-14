@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard Excel
+# E-commerce Sales Analysis Dashboard Excel
 
 ### Project Overview
 This Sales Analysis Dashboard is a data visualization tool that provides key insights into business performance metrics. The dashboard displays critical sales data including total orders, revenue figures, average revenue per order, and total quantity sold.
